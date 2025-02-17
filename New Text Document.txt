@@ -1,0 +1,2 @@
+to get out of VIM do this:
+:q
